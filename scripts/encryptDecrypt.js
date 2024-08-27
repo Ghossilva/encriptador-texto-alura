@@ -45,7 +45,7 @@ function desencriptarMensaje(mensaje){
     return mensajeDesencriptado;
 }
 
-//Con esta función ocultamos elementos de forma dinámica 
+//Con esta función ocultamos elementos de forma dinámica y también detecta si estamos ingresando caracteres numéricos
 textArea.addEventListener("input", (e) => {
     const numberDetector = /\d/.test(textArea.value);
     if (textArea.value === "") {
