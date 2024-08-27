@@ -89,6 +89,7 @@ decryptButton.addEventListener("click", (e) => {
     resultTitle.textContent = "El resultado es:"; // Actualiza el título
 });
 
+// El botón para copiar
 copyButton.addEventListener('click', ()=>{
     let copiedText = resultText.textContent;
     navigator.clipboard.writeText(copiedText).then(()=>{
