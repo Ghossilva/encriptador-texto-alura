@@ -36,7 +36,7 @@ git clone https://github.com/Ghossilva/encriptador-texto-alura.git
 
 <h2>Reglas de encriptación</h2>
 
-## Tabla de Sustitución
+Tabla de Sustitución
 
 | Letra original | Letra encriptada |
 |---|---|
