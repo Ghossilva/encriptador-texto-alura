@@ -19,26 +19,30 @@ HTML: Estructura de la página web.
 CSS: Estilos y diseño de la interfaz.
 JavaScript: Lógica de encriptación y desencriptación.
 
-Instrucciones de uso
+- Instrucciones de uso
 
 Clona el repositorio:
 
 git clone https://github.com/Ghossilva/encriptador-texto-alura.git
 
-Abre el archivo index.html en tu navegador.
-Ingresa el texto que deseas encriptar o desencriptar en el campo correspondiente.
-Selecciona la opción de encriptar o desencriptar.
-Haz clic en el botón para realizar la operación.
-El resultado se mostrará en la pantalla.
-Para copiar el resultado, haz clic en el botón "Copiar".
-Reglas de encriptación
+1. Abre el archivo index.html en tu navegador.
+2. Ingresa el texto que deseas encriptar o desencriptar en el campo correspondiente.
+3. Selecciona la opción de encriptar o desencriptar.
+4. Haz clic en el botón para realizar la operación.
+5. El resultado se mostrará en la pantalla.
+6. Para copiar el resultado, haz clic en el botón "Copiar".
 
-Letra original	Letra encriptada
-a	              ai
-e	              enter
-i	              imes
-o	              ober
-u	              ufat
+- Reglas de encriptación
+
+## Tabla de Sustitución
+
+| Letra original | Letra encriptada |
+|---|---|
+| a | ai |
+| e | enter |
+| i | imes |
+| o | ober |
+| u | ufat |
 
 - Consideraciones
 
