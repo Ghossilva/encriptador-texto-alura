@@ -1,10 +1,10 @@
 <h1>Encriptador/Desencriptador de Texto - Alura Challenge</h1>
 
-- Descripción
+<h2>Descripción</h2>
 
 Este proyecto es una solución al desafío de Alura para crear una aplicación web simple que encripta y desencripta texto siguiendo un conjunto específico de reglas. La aplicación permite a los usuarios ingresar texto en minúsculas y obtener su versión encriptada o desencriptada.
 
-- Funcionalidades
+<h2>Funcionalidades</h2>
 
 -Encriptación: Convierte las vocales "a", "e", "i", "o" y "u" en sus respectivas cadenas de sustitución (ai, enter, imes, ober, ufat).
 -Desencriptación: Revierte el proceso de encriptación, restaurando el texto original.
@@ -15,13 +15,13 @@ Este proyecto es una solución al desafío de Alura para crear una aplicación w
 
 **Implementé una expresión regular para validar la entrada de datos y evitar la inclusión de caracteres numéricos.**
 
-- Tecnologías utilizadas
+<h2>Tecnologías utilizadas</h2>
 
 HTML: Estructura de la página web.
 CSS: Estilos y diseño de la interfaz.
 JavaScript: Lógica de encriptación y desencriptación.
 
-- Instrucciones de uso
+<h2>Instrucciones de uso</h2>
 
 Clona el repositorio:
 
@@ -34,7 +34,7 @@ git clone https://github.com/Ghossilva/encriptador-texto-alura.git
 5. El resultado se mostrará en la pantalla.
 6. Para copiar el resultado, haz clic en el botón "Copiar".
 
-- Reglas de encriptación
+<h2>Reglas de encriptación</h2>
 
 ## Tabla de Sustitución
 
@@ -46,7 +46,7 @@ git clone https://github.com/Ghossilva/encriptador-texto-alura.git
 | o | ober |
 | u | ufat |
 
-- Consideraciones
+<h2>Consideraciones</h2>
 
 La aplicación solo funciona con letras minúsculas y no admite caracteres especiales o acentos.
 El algoritmo de encriptación es sencillo y está diseñado para fines educativos.
