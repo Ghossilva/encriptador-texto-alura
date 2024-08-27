@@ -11,7 +11,9 @@ Este proyecto es una solución al desafío de Alura para crear una aplicación w
 -Botón "Copiar": Permite copiar fácilmente el texto encriptado o desencriptado.
 -Interfaz sencilla: La aplicación cuenta con una interfaz intuitiva que facilita su uso.
 
+![Captura de la funcionalidad de encriptación](images/Captura-funcionalidad-encriptador.png)
 
+**Implementé una expresión regular para validar la entrada de datos y evitar la inclusión de caracteres numéricos.**
 
 - Tecnologías utilizadas
 
